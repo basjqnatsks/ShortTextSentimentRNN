@@ -1,0 +1,14 @@
+# requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+
+# Note: It's highly recommended to use specific versions for reproducibility.
+# After installing these packages in your environment (e.g., using pip install pandas numpy ...),
+# you can generate a file with exact versions by running:
+# pip freeze > requirements.txt
+# This will replace this file with one containing lines like: pandas==2.1.4 numpy==1.26.2 etc.
